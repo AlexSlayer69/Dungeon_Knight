@@ -1,0 +1,1 @@
+Physics2D.BoxCast(box.bounds.center,box.bounds.size,0,new Vector2(transform.localScale.x,0),under,walllayer);
